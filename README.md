@@ -10,4 +10,4 @@ You can watch my project walkthrough and code explanation here:
 ## Features:
  - Permission handling for Geolocation
  - Real-time coordinate retrieval
-  3. Accurate spherical distance calculation (KM)
+ - Accurate spherical distance calculation (KM)
