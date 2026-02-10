@@ -9,5 +9,5 @@ You can watch my project walkthrough and code explanation here:
 
 ## Features:
   1. Permission handling for Geolocation
-- Real-time coordinate retrieval
+  2. Real-time coordinate retrieval
 - Accurate spherical distance calculation (KM)
