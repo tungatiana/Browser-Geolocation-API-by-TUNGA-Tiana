@@ -5,7 +5,7 @@ This is a web application that uses the Browser Geolocation API to get the user'
 
 ## Presentation Video
 You can watch my project walkthrough and code explanation here:
-[CLICK HERE TO WATCH THE VIDEO](PASTE_YOUR_LINK_HERE) !
+[CLICK HERE TO WATCH THE VIDEO](PASTE_YOUR_LINK_HERE) !!
 
 ## Features
 - Permission handling for Geolocation
