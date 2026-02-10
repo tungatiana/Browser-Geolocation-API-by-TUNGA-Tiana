@@ -8,6 +8,6 @@ You can watch my project walkthrough and code explanation here:
 [CLICK HERE TO WATCH THE VIDEO](PASTE_YOUR_LINK_HERE) !!
 
 ## Features:
-  1. Permission handling for Geolocation
+ - Permission handling for Geolocation
   2. Real-time coordinate retrieval
   3. Accurate spherical distance calculation (KM)
