@@ -1,7 +1,7 @@
 # Geolocation Distance Calculator
 
 ## Project Description:
-This is a web application that uses the Browser Geolocation API to get the user's current coordinates. It then calculates the distance between the user and the Eiffel Tower using the Haversine formula
+This is a web application that uses the Browser Geolocation API to get the user's current coordinates. It then calculates the distance between the user and the Eiffel Tower using the Haversine formula.
 
 ## Features:
    1. Permission handling for Geolocation
